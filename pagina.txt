@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/png" href="descarga.png">
+
+    <title>indice</title>
+    <h1>Indice</h1>
+</head>
+
+<body>
+<style> body {
+    margin: 0px 50px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;2
+    font-size: 20px;
+    background: linear-gradient(90deg, #0e41cc 0%, #4119a4 50%);
+    color: rgb(238, 231, 231);
+  }
+
+  ol {
+          text-align: justify;
+        }
+        p {
+          text-align: justify;
+        }
+        a {
+          color:rgb(242, 237, 237);
+        }
+  </style>
+  
+    <ol>
+        <li><strong>REDES SOCIALES</strong></li><br>
+
+        <ul type="square">
+            <br>
+       <li>Facebook <br><a href="https://es-la.facebook.com/" target="blank"><br><img src="https://www.facebook.com/images/fb_icon_325x325.png" alt=""width="50"height="50"></br></a></li><br>
+        <li>You Tube <br><a href="https://www.youtube.com/" target="blank"><br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UfL1gq2qCjQYoWPWNhp4c4jSKjlKiYcBCuqRZ1sqka1OasOi7wOHeU1SbH8nBwye6aM&usqp=CAU" alt=""width="100"height="50"></br></a></li><br>
+        <li>Ticktoc <br><a href="https://www.tiktok.com/foryou?is_copy_url=1&is_from_webapp=v1" target="blank"><br><img src="https://cocktailmarketing.com.mx/wp-content/uploads/2019/04/estadisticas-tik-tok.jpg" alt=""width="100"height="50"></br></a></li><br>
+        <li>Twitter <br><a href="https://twitter.com/?lang=es"target="blank"><br><img src="https://image.similarpng.com/very-thumbnail/2020/06/Twitter-logo-on-transparent-background-PNG.png" alt=""width="50"height="50"></br></a></li><br>
+        </ul> 
+        <br>
+        <li><strong>LENGUAJES DE PROGRAMACION </strong></li>
+        <ul type="square">
+            <br>
+            <li><a href="https://www.java.com/es/" target="_blank">JAVA</a></li><br>
+             <li><a href="https://www.php.net/"target="_blank">PHP</a></li><br>
+             <li><a href="https://www.w3schools.com/CPP/default.asp"target="_blank">C++</a></li><br>
+             <li> <a href="https://www.w3schools.com/cs/index.php"target="_blank">C#</a></li><br>
+             </ul>
+             <br>
+             <li><strong>PROGRAMAS BASICOS DE COMPUTACION</strong></li>
+             <ul type="square">
+                 <br>
+                 <li><a href="https://www.microsoft.com/es-sv/"target="_blank">OFFICE</a></li><br>
+                  <li><a href="https://www.winrar.es/"target="_blank">WINRAR</a></li><br>
+                  <li><a href="https://get.adobe.com/es/reader/"target="_blank">LECTOR DE PDF</a></li><br>
+                  <li> <a href="https://es.wikipedia.org/wiki/VLC_media_player"target="_blank">VLC</a></li><br>
+                  </ul>
+                  <br>
+                  <li><strong>DESCARGAS</strong></li>
+             <ul type="square">
+                 <br>
+                 <li><a href="https://code.visualstudio.com/docs/?dv=win"target="_blank">VISUAL ESTUDIO CODE</a></li><br>
+                  <li><a href="https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf"target="_blank">LIBRO DE C -PDF</a></li><br>
+                  <li><a href="https://www.microsoft.com/es-es/download/office.aspx"target="_blank">OFFICE</a></li><br>
+                  <li> <a href="https://www.apachefriends.org/es/index.html"target="_blank">XAMPP</a></li><br>
+                  </ul>
+                  <br>
+
+</ol>
+</body>
+</html>
